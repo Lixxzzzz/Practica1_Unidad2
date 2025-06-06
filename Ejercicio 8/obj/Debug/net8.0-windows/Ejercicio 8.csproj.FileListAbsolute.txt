@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\bin\Debug\net8.0-windows\Ejercicio 8.exe
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\bin\Debug\net8.0-windows\Ejercicio 8.deps.json
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\bin\Debug\net8.0-windows\Ejercicio 8.runtimeconfig.json
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\bin\Debug\net8.0-windows\Ejercicio 8.dll
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\bin\Debug\net8.0-windows\Ejercicio 8.pdb
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio_8.Form1.resources
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.AssemblyInfo.cs
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.dll
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\refint\Ejercicio 8.dll
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.pdb
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\Ejercicio 8.genruntimeconfig.cache
+C:\Users\User\source\repos\Actividad1Unidad2\Ejercicio 8\obj\Debug\net8.0-windows\ref\Ejercicio 8.dll
